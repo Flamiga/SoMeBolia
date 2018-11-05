@@ -5,16 +5,22 @@ body {
 h1, h2 {
   text-align: center;
 }
+
 p {
   font-size: 2em;
 }
+
 .fb {
-  background-color:#3399ff;color: white;
+  background-color: #3399ff;
+  color: white;
 }
+
 .ig {
-  background-color: #ffccff
-; color: white;
+  background-color: #ffccff;
+  color: white;
 }
+
 .yt {
-background-color: #ff4d4d
-; color: white;}
+  background-color: #ff4d4d;
+  color: white;
+}
